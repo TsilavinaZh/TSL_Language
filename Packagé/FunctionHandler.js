@@ -6,7 +6,7 @@ class FunctionHandler {
     defineFunction(line) {
       const name = line.split(' ')[1].split('(')[0];
       this.functions[name] = () => {
-        // Logique à définir pour chaque fonction
+        
       };
     }
   
