@@ -1,5 +1,6 @@
 
-### Tutoriel pour apprendre le langage TSL (Toy Script Language)
+### Tutoriel pour apprendre le langage TSL 
+(Toy Script Language)
 
 **Introduction**
 
